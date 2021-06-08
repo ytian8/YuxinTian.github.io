@@ -12,16 +12,15 @@ I am currently a fourth-year PhD student in the Computer Vision Lab at Universit
 My research interests are in computer vision and deep learning. My primary interests are computational models for fashion understanding, semantic segmentation.
 
 ## News
-- **2018.5 ~ 2018.11:** Research intern at NVIDIA LPR group.
-- **2019.6 ~ now:** Research intern at NVIDIA LPR group.
-- **2019.12:** I received the [NVIDIA Graduate Fellowship](https://www.nvidia.com/en-us/research/graduate-fellowships/). Thanks NVIDIA!
+- **2021.5 ~ 2021.8:** Research intern at Pinterest Lab Applied Science group.
+- **2020.5 ~ 2020.8:** Research intern at Oak Ridge National Lab.
 
 ## Publications
 <table style="border: none; border-collapse: collapse;" border="0">
   
 <tr style="border-collapse: separate; border-spacing:30em;">
 
-<td style="border-collapse: collapse; border: none;">
+<!-- <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/umr.gif" width="800"/>
 </td>
 
@@ -39,7 +38,7 @@ Self-supervised Single-view 3D Reconstruction via Semantic Consistency. ECCV, 20
 <br>
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/NVlabs/UMR">code</a></span>
-</td>
+</td> -->
 
 </tr>
 
@@ -47,7 +46,7 @@ Self-supervised Single-view 3D Reconstruction via Semantic Consistency. ECCV, 20
 
 <tr style="border-collapse: separate; border-spacing:30em;">
 
-<td style="border-collapse: collapse; border: none;">
+<!-- <td style="border-collapse: collapse; border: none;">
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/joint.png" width="800"/>
 </td>
 
@@ -66,97 +65,7 @@ Joint-task Self-supervised Learning for Temporal Correspondence. NeurIPS, 2019.
 <img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
 <span><a href="https://github.com/Liusifei/UVC">code</a></span>
 </td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/sgpn.png" width="800"/>
-</td>
-
-<td style="border-collapse: collapse; border: none;">
-Learning Propagation for Arbitrarily-structured Data. ICCV, 2019.
-  
-Sifei Liu, <b>Xueting Li</b> , Varun Jampani, Shalini De Mello, Jan Kautz.  
-<br>
-
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1909.11237">arxiv paper</a></span>
-<br>
-<br>
-</td>
-</tr>
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/affordance-teser.jpg" width="800"/>
-</td>
-
-<td style="border-collapse: collapse; border: none;">
-Putting Humans in a Scene: Learning Affordance in 3D Indoor Environments. CVPR, 2019. 
-  
-<b>Xueting Li</b> , Sifei Liu , Kihwan Kim, Xiaolong Wang, Ming-Hsuan Yang, Jan Kautz.  
-<br>
-
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1903.05690v1">arxiv paper</a></span>
-<br>
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
-<span><a href="https://sites.google.com/view/3d-affordance-cvpr19">project page</a></span>
-<br>
-</td>
-</tr>
-
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/lst-teser.png" width="800"/>
-</td>
-
-<td style="border-collapse: collapse; border: none;">
-Learning Linear Transformations for Fast Arbitrary Style Transfer. CVPR, 2019.
-  
-<b>Xueting Li*</b> , Sifei Liu* , Jan Kautz , Ming-Hsuan Yang. 
-<br>
-
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1808.04537v1">arxiv paper</a></span>
-<br>
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/web_icon.png" width="20" height="20" hspace="5" >
-<span><a href="https://sites.google.com/view/linear-style-transfer-cvpr19">project page</a></span>
-<br>
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/sunshineatnoon/LinearStyleTransfer">code</a></span>
-</td>
-
-</tr>
-
-
-
-<tr style="border-collapse: separate; border-spacing:30em;">
-
-<td style="border-collapse: collapse; border: none;">
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/close-teser.png" width="800" />
-</td>
-
-<td style="border-collapse: collapse; border: none;">
-A Closed-form Solution to Photorealistic Image Stylization. ECCV, 2018.
-
-Yijun Li , Ming-Yu Liu , <b>Xueting Li</b> , Ming-Hsuan Yang , Jan Kautz.
-<br>
-
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/pdf_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://arxiv.org/abs/1802.06474">paper</a></span>
-<br>
-<img src="https://raw.githubusercontent.com/sunshineatnoon/sunshineatnoon.github.io/master/images/github_icon.png" width="20" height="20" hspace="5">
-<span><a href="https://github.com/NVIDIA/FastPhotoStyle">code</a></span>
-
-</td>
-
-</tr>
-
+</tr> -->
 
 
 
