@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am currently a fourth-year PhD student in the Computer Vision Lab at University of California, Merced supervised by [Shawn Newsam](https://faculty.ucmerced.edu/snewsam/). Here is my [CV]().
 
-My research interests are in computer vision and deep learning. My primary interests are computational models for fashion understanding, semantic segmentation.
+My research interests are in computer vision and deep learning. My primary interests are computational models for fashion understanding(retrieval, recommendation, attributes), semantic segmentation.
 
 ## News
 - **2021.5 ~ 2021.8:** Research intern at Pinterest Lab Applied Science group.
